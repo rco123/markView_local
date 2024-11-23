@@ -1,5 +1,6 @@
 ## markView_local(목적물 사각마킹 라벨 작업)
 
+<img src="markView.png" alt="markView" width="450", height="auto">
 
 ### 1.주요기능
 - 이미지 안에 있는 디텍션 목적물을 사각 마킹을 지원한다.
