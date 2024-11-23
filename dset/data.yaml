@@ -1,0 +1,10 @@
+train:
+  - dset/ahead/train/images
+  - dset/left/train/images
+  - dset/right/train/images
+val:
+  - dset/ahead/valid/images
+  - dset/left/valid/images
+  - dset/right/valid/images
+nc: 3
+names: ['ahead', 'left', 'right']
