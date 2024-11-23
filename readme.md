@@ -26,7 +26,7 @@
 ### 5.프로그램 실행
 https://rco123.github.io/markView_local/
 
-***HOW TO*** 
+### 6.동영상
 https://youtu.be/U7Ebmj7EfeE
 
 
